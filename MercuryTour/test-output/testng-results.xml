@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64232" started-at="2023-01-15T00:46:31 EST" finished-at="2023-01-15T00:47:36 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64232" started-at="2023-01-15T00:46:31 EST" finished-at="2023-01-15T00:47:36 EST">
+      <class name="pagesTest.RegisterPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:pagesTest.RegisterPageTest@32eebfca]" name="setup" is-config="true" duration-ms="63932" started-at="2023-01-15T00:46:31 EST" finished-at="2023-01-15T00:47:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyRegisterTab()[pri:0, instance:pagesTest.RegisterPageTest@32eebfca]" name="verifyRegisterTab" duration-ms="5" started-at="2023-01-15T00:47:35 EST" finished-at="2023-01-15T00:47:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagesTest.RegisterPageTest@32eebfca]" name="tearDown" is-config="true" duration-ms="264" started-at="2023-01-15T00:47:35 EST" finished-at="2023-01-15T00:47:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pagesTest.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
